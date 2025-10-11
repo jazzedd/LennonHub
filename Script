@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/C2CRTTN3/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNews/sab-script-8f73d9/main/Chilli.lua"))()
